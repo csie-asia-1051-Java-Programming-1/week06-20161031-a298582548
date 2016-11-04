@@ -16,7 +16,6 @@ public class ex03 {
 	}
    	public static void  fun1(String v1){
 		for(int i = 0;i<v1.length();i++){
-			
 		System.out.print(v1.charAt(i));
 		if(i!=v1.length()){
 		System.out.print("\t");
